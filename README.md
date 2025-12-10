@@ -10,7 +10,7 @@ Trained a baseline Linear Regression model achieving moderate predictive perform
 Created visualizations including pair plots, scatterplots, and predicted vs. actual price charts.
 Outlined future improvements (geospatial modeling, advanced ML, and external datasets).
 
-![](https://github.com/jaketrost5/Portfolio/blob/main/images/ReModel.png)
+![](/images/ReModel.png)
 
 # [Project 2:  Marvel Comic Price Prediction: Project Overview](https://github.com/jaketrost5/MarvelComics)
 Analyzed 5,600+ cleaned Marvel comic issues after processing a raw dataset of ~28,000 rows.
@@ -20,7 +20,7 @@ Engineered features and trained a linear regression model (RMSE ≈ $0.63), pred
 Built clear visualizations (rating distribution, release trends, price histogram, predicted vs actual).
 Summarized key insights showing the limits of metadata-only modeling and identified next steps (variant detection, richer datasets, classification models, advanced ML).
 
-![](https://github.com/jaketrost5/Portfolio/blob/main/images/MarvelComicsImage.png)
+![](/images/MarvelComicsImage.png)
 
 # [Project 3:  Fitbit Tracker Data Analysis:  Project Overview](https://github.com/jaketrost5/bellabeat-case-study)
 Analyzing smart device usage to identify customer behavior patterns.
@@ -30,7 +30,7 @@ Created polished visualizations in R/Python showing user engagement patterns acr
 Developed insights and recommendations for Bellabeat’s product strategy (notifications, habit loops, app features).
 Designed a full analytical report structured like a real stakeholder business presentation.
 
-![](https://github.com/jaketrost5/Portfolio/blob/main/images/BellabeatImage.png)
+![](/images/BellabeatImage.png)
 
 
 
