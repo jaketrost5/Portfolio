@@ -30,5 +30,7 @@ Created polished visualizations in R/Python showing user engagement patterns acr
 Developed insights and recommendations for Bellabeat’s product strategy (notifications, habit loops, app features).
 Designed a full analytical report structured like a real stakeholder business presentation.
 
+![](https://github.com/jaketrost5/Portfolio/blob/main/images/BellabeatImage.png)
+
 
 
