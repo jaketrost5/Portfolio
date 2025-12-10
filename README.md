@@ -20,7 +20,7 @@ Engineered features and trained a linear regression model (RMSE ≈ $0.63), pred
 Built clear visualizations (rating distribution, release trends, price histogram, predicted vs actual).
 Summarized key insights showing the limits of metadata-only modeling and identified next steps (variant detection, richer datasets, classification models, advanced ML).
 
-
+![](https://github.com/jaketrost5/Portfolio/blob/main/images/MarvelComicsImage.png)
 
 # [Project 3:  Fitbit Tracker Data Analysis:  Project Overview](https://github.com/jaketrost5/bellabeat-case-study)
 Analyzing smart device usage to identify customer behavior patterns.
