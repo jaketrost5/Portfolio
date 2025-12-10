@@ -10,3 +10,10 @@ Trained a baseline Linear Regression model achieving moderate predictive perform
 Created visualizations including pair plots, scatterplots, and predicted vs. actual price charts.
 Outlined future improvements (geospatial modeling, advanced ML, and external datasets).
 
+# [Project 2:  Marvel Comic Price Prediction: Project Overview]
+Analyzed 5,600+ cleaned Marvel comic issues after processing a raw dataset of ~28,000 rows.
+Standardized messy metadata (ratings, dates, formats, cover artists, pencilers, and writer names).
+Performed EDA to uncover publishing patterns, creator frequency imbalance, and price clustering.
+Engineered features and trained a linear regression model (RMSE ≈ $0.63), predicting price based on metadata.
+Built clear visualizations (rating distribution, release trends, price histogram, predicted vs actual).
+Summarized key insights showing the limits of metadata-only modeling and identified next steps (variant detection, richer datasets, classification models, advanced ML).
