@@ -10,7 +10,7 @@ Trained a baseline Linear Regression model achieving moderate predictive perform
 Created visualizations including pair plots, scatterplots, and predicted vs. actual price charts.
 Outlined future improvements (geospatial modeling, advanced ML, and external datasets).
 
-# [Project 2:  Marvel Comic Price Prediction: Project Overview]
+# [Project 2:  Marvel Comic Price Prediction: Project Overview](https://github.com/jaketrost5/MarvelComics)
 Analyzed 5,600+ cleaned Marvel comic issues after processing a raw dataset of ~28,000 rows.
 Standardized messy metadata (ratings, dates, formats, cover artists, pencilers, and writer names).
 Performed EDA to uncover publishing patterns, creator frequency imbalance, and price clustering.
