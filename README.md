@@ -8,7 +8,7 @@ Engineered features (price per sqft, log-price, outlier filtering) to improve mo
 Conducted EDA to identify price drivers such as size, baths, beds, and location patterns.
 Trained a baseline Linear Regression model achieving moderate predictive performance (RMSE ≈ $60K).
 Created visualizations including pair plots, scatterplots, and predicted vs. actual price charts.
-Outlined future improvements (geospatial modeling, advanced ML, and external datasets).
+Outlined future improvements 
 
 ![](/images/ReModel.png)
 
